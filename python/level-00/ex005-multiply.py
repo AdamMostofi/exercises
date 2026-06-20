@@ -8,3 +8,7 @@ EXPECTED OUTPUT:
 """
 
 # Your code below:
+def multiply(a,b):
+    return a * b
+
+print(multiply(8,7))
