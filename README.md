@@ -14,8 +14,8 @@ From syntax basics to algorithmic thinking.
 
 | Language | Focus | L0 | L1 | L2 | L3 | L4 | L5 |
 |----------|-------|----|----|----|----|----|----|
-| **Python** | ⭐ Main | 4 | 0 | 0 | 0 | 0 | 0 |
-| **SQL** | ⭐ Main | 4 | 0 | 0 | 0 | 0 | 0 |
+| **Python** | ⭐ Main | **12** ✅ | 0 | 0 | 0 | 0 | 0 |
+| **SQL** | ⭐ Main | **12** ✅ | 0 | 0 | 0 | 0 | 0 |
 | TypeScript | — | 4 | 0 | 0 | 0 | 0 | 0 |
 | Node.js | — | 0 | 0 | 0 | 0 | 0 | 0 |
 
