@@ -15,3 +15,10 @@
  */
 
 // Your code below:
+let name: string = "Alice";
+let age: number = 30;
+let isStudent: boolean = false;
+
+console.log(name);
+console.log(age);
+console.log(isStudent);
