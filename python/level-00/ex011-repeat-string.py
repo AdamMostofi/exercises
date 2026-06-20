@@ -9,3 +9,5 @@ HaHaHa
 """
 
 # Your code below:
+a = "Ha"
+print(a*3)
