@@ -13,3 +13,4 @@ EXPECTED OUTPUT:
 
 # Your code below:
 word = "Python"
+print(len(word))

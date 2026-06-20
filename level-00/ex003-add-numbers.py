@@ -11,3 +11,6 @@ EXPECTED OUTPUT:
 """
 
 # Your code below:
+a =15
+b =27
+print(a+b)
