@@ -22,7 +22,7 @@ cur.execute("INSERT INTO users VALUES (3, 'Charlie', 22)")
 conn.commit()
 
 # Write your SQL query below (as a string):
-query = ""
+query = "SELECT * FROM users WHERE age > 25"
 
 # --- don't modify below ---
 cur.execute(query)
