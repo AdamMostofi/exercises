@@ -10,3 +10,5 @@ EXPECTED OUTPUT:
 """
 
 # Your code below:
+x = 3.14
+print (type(x))
