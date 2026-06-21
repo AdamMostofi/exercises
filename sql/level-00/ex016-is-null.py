@@ -19,7 +19,7 @@ for row in [(1, 'Alice', 'alice@mail.com'), (2, 'Bob', None), (3, 'Charlie', Non
     cur.execute("INSERT INTO users VALUES (?, ?, ?)", row)
 conn.commit()
 
-query = ""  # your SQL here (use IS NULL, not = NULL)
+query = "SELECT * FROM users WHERE  email IS NULL;"  # your SQL here (use IS NULL, not = NULL)
 
 cur.execute(query)
 for row in cur.fetchall():
