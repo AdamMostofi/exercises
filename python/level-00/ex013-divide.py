@@ -8,3 +8,4 @@ EXPECTED OUTPUT:
 """
 
 # Your code below:
+print(100/4)
