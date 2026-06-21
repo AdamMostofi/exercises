@@ -11,3 +11,4 @@ EXPECTED OUTPUT:
 # Your code below:
 num_str = "50"
 num_int = 25
+print(int(num_str)+num_int) 
