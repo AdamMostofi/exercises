@@ -9,3 +9,5 @@ EXPECTED OUTPUT:
 """
 
 # Your code below:
+a = 2**10
+print(a)
