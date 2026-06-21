@@ -19,7 +19,7 @@ for row in [(1, 'Alice', 25), (2, 'Bob', 30), (3, 'Charlie', 22)]:
     cur.execute("INSERT INTO users VALUES (?, ?, ?)", row)
 conn.commit()
 
-query = ""  # your SQL here
+query = "SELECT * FROM users WHERE  age BETWEEN 23 AND 30 ;"  # your SQL here
 
 cur.execute(query)
 for row in cur.fetchall():
